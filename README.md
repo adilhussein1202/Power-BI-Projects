@@ -22,7 +22,7 @@ The dataset used for this project is sourced from [data.gov](https://data.gov/),
 
 ## Installation
 - Download and install Power BI Desktop.
-- Clone this repository to your local machine by copying the below code:
+- Clone this repository to your local machine by copying the code:
 https://github.com/adilhussein1202/PowerBI-Failed-Banks-US-2000-2020.git
 - Open the .pbix file in Power BI Desktop to explore and interact with the report.
 
